@@ -77,4 +77,5 @@ case 4:printf("Exit");
        break;
 }
 }while(ch!=4);
+getch();       
 }
